@@ -16,3 +16,4 @@
 ⚡ Fun fact:
 
 - I do a lot of kendo (the martial art), but I don't know any Kendo (the UI framework).
+- I've been doing [Advent of Code](https://adventofcode.com/about) for [2023](https://github.com/jeantessier/advent-of-code-2023) and [2024](https://github.com/jeantessier/advent-of-code-2024).
