@@ -10,7 +10,7 @@
 - [book-reviews/node_graphql_federation](https://github.com/jeantessier/book-reviews/tree/master/node_graphql_federation) - A GraphQL backend that uses Apollo graph federation to join together GraphQL services written in `JavaScript` with Node.
     - [book-search-react-app](https://github.com/jeantessier/book-search-react-app) - A React frontend for the Book Reviews service, written in `JavaScript`, that uses GraphQL to communicate with the backend service.
 - [book-reviews/rails_graphql_federation](https://github.com/jeantessier/book-reviews/tree/master/rails_graphql_federation) - A GraphQL backend that uses Apollo graph federation to join together GraphQL services written with `Ruby` on Rails.
-- [TwoStageGuiceProvider-gradle-spock](https://github.com/jeantessier/TwoStageGuiceProvider-gradle-spock) - If you're using Guice to do `Java` dependency injection, this article shows you how to chain modules together to do multi-stage initialization.
+- `TwoStageGuiceProvider` - If you're using Guice to do `Java` dependency injection, this article shows you how to chain modules together to do multi-stage initialization.  Versions with tests in [JUnit 4](https://github.com/jeantessier/TwoStageGuiceProvider-gradle-junit4), [JUnit Jupiter](https://github.com/jeantessier/TwoStageGuiceProvider-gradle-junit5), and [Spock](https://github.com/jeantessier/TwoStageGuiceProvider-gradle-spock).
 - LangChain examples in [`Java`](https://github.com/jeantessier/langchain-java-example), [`JavaScript`](https://github.com/jeantessier/langchain-javascript-example), [`Python`](https://github.com/jeantessier/langchain-python-example), and [`Ruby`](https://github.com/jeantessier/langchain-ruby-example).  They can connect to ChatGPT, Claude, and Google Gemini.
 
 ⚡ Fun fact:
