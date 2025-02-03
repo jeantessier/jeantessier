@@ -3,8 +3,8 @@
 🧑‍💻 Project highlights:
 
 - [dependency-finder](https://github.com/jeantessier/dependency-finder) - Tracking dependencies in `Java` code (what method calls other methods, what class references other classes, what package depends on what other packages) through static analysis of compiled `Java` code.
-    - [micronaut-depfind-test](https://github.com/jeantessier/micronaut-depfind-test) - Dependency Finder as a Service.  An experimental microservice written in `Groovy` using the Micronaut framework.
-    - [dependencyfinder-react-app](https://github.com/jeantessier/dependencyfinder-react-app) - A React frontend for the Dependency Finder service, written in `JavaScript` and plenty of React Hooks.
+    - [dependency-finder-micronaut](https://github.com/jeantessier/dependency-finder-micronaut) - Dependency Finder as a Service.  An experimental microservice written in `Groovy` using the Micronaut framework.
+    - [dependency-finder-react](https://github.com/jeantessier/dependency-finder-react) - A React frontend for the Dependency Finder service, written in `JavaScript` and plenty of React Hooks.
 - [test-summary-action](https://github.com/jeantessier/test-summary-action) - An action for GitHub Actions workflows to summarize JUnit runs to the workflow's summary.
 - [code-coverage-summary-action](https://github.com/jeantessier/code-coverage-summary-action) - An action for GitHub Actions workflows to summarize Jacoco code coverage runs to the workflow's summary.
 - [book-reviews/node_graphql_federation](https://github.com/jeantessier/book-reviews/tree/master/node_graphql_federation) - A GraphQL backend that uses Apollo graph federation to join together GraphQL services written in `JavaScript` with Node.
